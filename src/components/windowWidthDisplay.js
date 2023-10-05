@@ -9,6 +9,7 @@ const WindowWidthDisplay = () => {
     <Container
       sx={{
         marginBottom: '10px',
+        marginTop: '10px',
         padding: '20px',
         backgroundColor: 'blanchedalmond',
       }}
